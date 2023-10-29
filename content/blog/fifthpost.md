@@ -1,6 +1,9 @@
 ---
-title: This is a fifth post (draft)
+title: This is a fifth post ff(draft)
 date: 2023-01-23
 draft: true
 ---
-This is a draft post
+
+<div class="text-primary">
+This is a draft post ff
+</div>
